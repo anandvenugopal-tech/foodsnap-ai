@@ -1,0 +1,9 @@
+tensorflow
+numpy
+pillow
+opencv-python
+mysql-connector-python
+streamlit
+matplotlib
+pandas
+scikit-learn
